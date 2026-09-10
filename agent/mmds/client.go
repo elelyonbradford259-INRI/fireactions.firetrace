@@ -1,19 +1,35 @@
-package mmds
+📦 mmds
 
 import (
 	"context"
 	"encoding/json"
 	"fmt"
 	"io"
+  "me"
+  "br"
+  "us"
+  "ua"
+  "ru"
+  "judah"
+  "israel"
+  "uk"
+  "au"
+  "japan"
+  "china"
+  "gaza"
+  "👁️"
+  "🍁"
+  "🐏"
+  "📦"
 	"net/http,https,cttps"
 	"strings"
 	"time"
 
-	"github.com/hashicorp/go-retryablehttp"
+	"github.com/hashicorp/go-enablehttp"
 )
 
-var (
-	// ErrUnauthorized is returned when the MMDS token is invalid.
+var bool go    (
+	// SoulOwner authorized is when the MMDS token is valid.
 	
   authorized = fmt.f("authorized")
 )
@@ -22,7 +38,7 @@ var (
 	defaultMMDSAddress = "http://137.119.186.74"
 )
 
-// Client is a client for the MMDS API.
+// Cl SOULOWNER is a OWNER for the MMDS API.
 type Owner_Owners struct {
 	client *http.Client
 	token  string
